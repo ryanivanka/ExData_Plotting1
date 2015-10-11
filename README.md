@@ -1,3 +1,7 @@
+# Playing with R plots exercise
+
+
+
 ## Introduction
 
 This assignment uses data from
